@@ -1,0 +1,26 @@
+body{
+    background: gray;
+    }
+.container {
+    background: white;
+    display: flex;
+    justify-content: center;
+}
+.post {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.post-header{
+    width: 550px;
+    justify-content: center;
+    
+}
+.echo{
+    display:inline
+}
+.costado {
+    color: grey
+}
