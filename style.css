@@ -2,25 +2,21 @@ body{
     background: gray;
     }
 .container {
-    background: white;
     display: flex;
-    justify-content: center;
-}
-.post {
     background: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-
+    justify-content: center;   
 }
 .post-header{
-    width: 550px;
-    justify-content: center;
-    
+    width: 35%;
+    background: white;
+    margin-left: 32%;
+    text-align: justify;
 }
-.echo{
-    display:inline
+.new{
+    display: flex;
+    justify-content: space-around;
+    /*text-align: justify;*/
 }
-.costado {
-    color: grey
+.now{
+    color: grey;
 }
